@@ -18,6 +18,7 @@ public class SampleJava {
 		System.out.println("hi welcome to java");
 		displayData();
 		displayOfficeName();
+		System.out.println("Addition of 10+10 is: "+(10+10));
 		
 	}
 	public static void displayData(){
@@ -26,6 +27,11 @@ public class SampleJava {
 	public static void displayOfficeName(){
 		System.out.println("Welcome To Akshar School Solutions");
 	}
+	/**
+	  pubilc static int addNum(){
+		return 10+10;
+	}
+	*/
 
 
 }
